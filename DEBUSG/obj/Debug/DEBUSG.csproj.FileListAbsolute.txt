@@ -1,0 +1,7 @@
+C:\Users\tothz\source\repos\DEBUSG\DEBUSG\bin\Debug\DEBUSG.exe.config
+C:\Users\tothz\source\repos\DEBUSG\DEBUSG\bin\Debug\DEBUSG.exe
+C:\Users\tothz\source\repos\DEBUSG\DEBUSG\bin\Debug\DEBUSG.pdb
+C:\Users\tothz\source\repos\DEBUSG\DEBUSG\obj\Debug\DEBUSG.csproj.CoreCompileInputs.cache
+C:\Users\tothz\source\repos\DEBUSG\DEBUSG\obj\Debug\DEBUSG.exe
+C:\Users\tothz\source\repos\DEBUSG\DEBUSG\obj\Debug\DEBUSG.pdb
+C:\Users\tothz\source\repos\DEBUSG\DEBUSG\obj\Debug\DEBUSG.csprojResolveAssemblyReference.cache
