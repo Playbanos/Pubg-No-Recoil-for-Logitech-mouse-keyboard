@@ -1,0 +1,6 @@
+C:\Users\tothz\source\repos\AutocadPlugin\AutocadPlugin\bin\Debug\AutocadPlugin.dll
+C:\Users\tothz\source\repos\AutocadPlugin\AutocadPlugin\bin\Debug\AutocadPlugin.pdb
+C:\Users\tothz\source\repos\AutocadPlugin\AutocadPlugin\obj\Debug\AutocadPlugin.csprojAssemblyReference.cache
+C:\Users\tothz\source\repos\AutocadPlugin\AutocadPlugin\obj\Debug\AutocadPlugin.csproj.CoreCompileInputs.cache
+C:\Users\tothz\source\repos\AutocadPlugin\AutocadPlugin\obj\Debug\AutocadPlugin.dll
+C:\Users\tothz\source\repos\AutocadPlugin\AutocadPlugin\obj\Debug\AutocadPlugin.pdb
